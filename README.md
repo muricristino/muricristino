@@ -1,5 +1,3 @@
-Engineer in São Paulo, building tools for AI coding agents and software for small businesses.
-
 ```elixir
 "Muri Cristino"
 |> Engineer.new(based_in: "São Paulo", works_at: "RD Station")
