@@ -1,10 +1,17 @@
-### 🚀 Languages and Tools:
+### Muri Cristino
 
-* Here are the technologies I'm currently working with:
+```elixir
+"Muri Cristino"
+|> Engineer.new(based_in: "São Paulo", works_at: "RD Station")
+|> speaks([:ruby, :elixir, :typescript, :rust])
+|> builds(["tools for AI coding agents", "software for small businesses"])
+|> writes_about(["what I build", "what I break"])
+```
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,react&theme=dark&perline=6)](https://skillicons.dev)
+Currently building a blog engine in Phoenix, so that searching my name finds my writing.
 
-
-* In addition, I have experience and knowledge in the following technologies:
-
-[![My Skills](https://skillicons.dev/icons?i=golang,elixir,typescript,rails,vue,nuxt,tailwindcss,jquery,docker,rabbitmq,postgres,mongodb&theme=dark)](https://skillicons.dev)
+<samp>
+<a href="https://www.axolutions.com.br">axolutions</a> ·
+<a href="https://github.com/nuxt/ui/pull/1877">nuxt/ui</a>
+<!-- · <a href="">blog</a> · <a href="">linkedin</a> · <a href="">x</a> -->
+</samp>
