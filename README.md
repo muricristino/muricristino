@@ -10,5 +10,5 @@
 ### Public repos
 
 <!-- repos:start -->
-- [dotfiles](https://github.com/muricristino/dotfiles): Personal macOS dotfiles: zsh, tmux, neovim, ghostty, git and Claude Code
+- [dotfiles](https://github.com/muricristino/dotfiles): Personal dotfiles for macOS and Linux: zsh, tmux, neovim, ghostty, git and Claude Code
 <!-- repos:end -->
