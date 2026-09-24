@@ -8,3 +8,6 @@
 |> writes_about(["what I build", "what I break"])
 ```
 
+### Public repos
+
+- [dotfiles](https://github.com/muricristino/dotfiles): my zsh, tmux, neovim, ghostty, git and Claude Code setup, managed with GNU Stow.
