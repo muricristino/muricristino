@@ -16,4 +16,5 @@
 - [learno](https://github.com/muricristino/learno): A Claude Code skill that teaches any subject across multiple sessions, with AI-validated answers, spaced repetition, and a live mastery dashboard.
 - [senhor-presidente](https://github.com/muricristino/senhor-presidente): 
 - [tech-challenge-rd-2025](https://github.com/muricristino/tech-challenge-rd-2025): 
+- [webo](https://github.com/muricristino/webo): Lightweight server panel in Rust (one binary, <50 MB RAM): projects, deploys, logs, errors and databases, with a JSON API and an MCP server for AI agents.
 <!-- repos:end -->
