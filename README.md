@@ -12,6 +12,7 @@
 <!-- repos:start -->
 - [AXO-NOVO](https://github.com/muricristino/AXO-NOVO): 
 - [blogo](https://github.com/muricristino/blogo): Self-hosted blog engine in Elixir/Phoenix, built so a search for the author's name finds the author's writing.
+- [bookos](https://github.com/muricristino/bookos): Search and download books from Anna's Archive and Libgen from the command line
 - [dotfiles](https://github.com/muricristino/dotfiles): Personal dotfiles for macOS and Linux: zsh, tmux, neovim, ghostty, git and Claude Code
 - [learno](https://github.com/muricristino/learno): A Claude Code skill that teaches any subject across multiple sessions, with AI-validated answers, spaced repetition, and a live mastery dashboard.
 - [senhor-presidente](https://github.com/muricristino/senhor-presidente): 
