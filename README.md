@@ -10,7 +10,6 @@
 ### Public repos
 
 <!-- repos:start -->
-- [AXO-NOVO](https://github.com/muricristino/AXO-NOVO): Axolutions website: static pages for sites, apps and systems, with a blog and project portfolio, deployed on Vercel
 - [blogo](https://github.com/muricristino/blogo): Self-hosted blog engine in Elixir/Phoenix, built so a search for the author's name finds the author's writing.
 - [bookos](https://github.com/muricristino/bookos): Search and download books from Anna's Archive and Libgen, and send them to a Kindle
 - [dotfiles](https://github.com/muricristino/dotfiles): Personal dotfiles for macOS and Linux: zsh, tmux, neovim, ghostty, git and Claude Code
